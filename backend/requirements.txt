@@ -1,0 +1,7 @@
+fastapi
+mangum
+httpx
+pandas
+numpy
+python-dateutil
+pydantic
